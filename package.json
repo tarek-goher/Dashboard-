@@ -1,5 +1,6 @@
 {
-  "name": "admin-dashboard",
+  "name": "dashboard",
+  "homepage": "https://tarek-goher.github.io/Dashboard-/",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -73,6 +74,7 @@
     "@types/react-dom": "^19.0.2",
     "@types/three": "^0.171.0",
     "@vitejs/plugin-react": "^4.3.4",
+    "gh-pages": "^6.3.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.5"
   }
