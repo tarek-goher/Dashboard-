@@ -1,4 +1,4 @@
-# Nexus Admin Dashboard
+# Admin Dashboard
 
 A modern, responsive admin dashboard for tracking business metrics — revenue, orders, products, and users — built with React, TypeScript, and Tailwind CSS.
 ## ✨ Features
